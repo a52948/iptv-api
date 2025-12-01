@@ -1,47 +1,26 @@
 🕘️更新时间,#genre#
-2025-12-01 10:21:01,http://60.13.52.236:65500/newlive/live/hls/2/live.m3u8
+2025-12-01 18:29:57,http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://60.13.52.236:65500/newlive/live/hls/2/live.m3u8
 CCTV-5,http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8
-CETV-1,http://171.117.158.149:9999/rtp/226.0.2.181:9360
-CETV-1,http://116.179.130.16:6001/rtp/226.0.2.181:9360
-CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 CETV-1,http://221.205.180.120:8004/rtp/226.0.2.181:9360
-CETV-1,http://118.81.98.245:8082/rtp/226.0.2.181:9360
+CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 CETV-1,http://171.118.146.124:6001/rtp/226.0.2.181:9360
 
 💰央视付费频道,#genre#
-文化精品,http://116.179.130.16:6001/rtp/226.0.2.219:9664
 文化精品,http://221.205.180.120:8004/rtp/226.0.2.219:9664
 文化精品,http://171.125.90.120:6001/rtp/226.0.2.219:9664
-文化精品,http://171.117.158.149:9999/rtp/226.0.2.219:9664
-文化精品,http://60.223.72.140:8002/rtp/226.0.2.219:9664
-风云音乐,http://221.205.180.120:8004/rtp/226.0.2.220:9672
-风云音乐,http://171.118.146.124:6001/rtp/226.0.2.220:9672
 风云音乐,http://116.179.130.16:6001/rtp/226.0.2.220:9672
-第一剧场,http://171.117.158.149:9999/rtp/226.0.2.221:9680
+风云音乐,http://221.205.180.120:8004/rtp/226.0.2.220:9672
 第一剧场,http://60.223.72.140:8002/rtp/226.0.2.221:9680
-第一剧场,http://118.81.98.245:8082/rtp/226.0.2.221:9680
 风云剧场,http://171.125.90.120:6001/rtp/226.0.2.227:9728
-风云剧场,http://118.81.98.245:8082/rtp/226.0.2.227:9728
 怀旧剧场,http://171.117.158.149:9999/rtp/226.0.2.224:9704
-怀旧剧场,http://116.179.130.16:6001/rtp/226.0.2.224:9704
 怀旧剧场,http://171.125.90.120:6001/rtp/226.0.2.224:9704
 高尔夫网球,http://171.117.158.149:9999/rtp/226.0.2.217:9648
-电视指南,http://171.117.158.149:9999/rtp/226.0.2.218:9656
-电视指南,http://118.81.98.245:8082/rtp/226.0.2.218:9656
-兵器科技,http://171.117.158.149:9999/rtp/226.0.2.223:9696
 兵器科技,http://60.223.72.140:8002/rtp/226.0.2.223:9696
 
 📡卫视频道,#genre#
 湖南卫视,http://171.117.158.149:9999/rtp/226.0.1.246:2125
-湖南卫视,http://60.223.72.140:8002/rtp/226.0.1.246:2125
-湖南卫视,http://116.179.130.16:6001/rtp/226.0.1.246:2125
-湖南卫视,http://118.81.98.245:8082/rtp/226.0.1.246:2125
-安徽卫视,http://112.132.10.54:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://60.13.52.236:65500/newlive/live/hls/39/live.m3u8
-四川卫视,http://171.117.158.149:9999/rtp/226.0.1.250:2126
 四川卫视,http://221.205.180.120:8004/rtp/226.0.1.250:2126
 
 ☘️广东频道,#genre#
@@ -51,17 +30,12 @@ CETV-1,http://171.118.146.124:6001/rtp/226.0.2.181:9360
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
-法治天地,http://116.179.130.16:6001/rtp/226.0.2.83:8576
-法治天地,http://171.117.158.149:9999/rtp/226.0.2.83:8576
 都市剧场,http://171.125.90.120:6001/rtp/226.0.2.81:8560
 都市剧场,http://116.179.130.16:6001/rtp/226.0.2.81:8560
-都市剧场,http://171.117.158.149:9999/rtp/226.0.2.81:8560
-都市剧场,http://118.81.98.245:8082/rtp/226.0.2.81:8560
 
 ☘️重庆频道,#genre#
 重庆汽摩,http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
 重庆汽摩,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=gf001&userid=gf001
-万州综合,http://live.xmcdn.com/live/1678/64.m3u8
 
 ☘️江苏频道,#genre#
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
@@ -70,6 +44,8 @@ CETV-1,http://171.118.146.124:6001/rtp/226.0.2.181:9360
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
+镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 
 ☘️辽宁频道,#genre#
 
@@ -96,6 +72,7 @@ CETV-1,http://171.118.146.124:6001/rtp/226.0.2.181:9360
 
 ☘️河南频道,#genre#
 周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
 
 ☘️河北频道,#genre#
 
@@ -109,6 +86,7 @@ CETV-1,http://171.118.146.124:6001/rtp/226.0.2.181:9360
 永昌综合,rtmp://play.kankanlive.com/live/1652755738635915
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
 渭源新闻,http://play.kankanlive.com/live/1720408280309109.m3u8
+甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
@@ -130,9 +108,9 @@ CETV-1,http://171.118.146.124:6001/rtp/226.0.2.181:9360
 
 ☘️山西频道,#genre#
 万荣综合,http://60.222.246.220:19433/hls1.m3u8
-山西经济与科技,http://171.118.146.124:6001/rtp/226.0.2.236:9800
+大宁综合,http://live.daningtv.com/aac_dngb/playlist.m3u8
+大宁综合,http://live.daningtv.com/tv/playlist.m3u8
 山西经济与科技,http://171.117.158.149:9999/rtp/226.0.2.236:9800
-山西经济与科技,http://116.179.130.16:6001/rtp/226.0.2.236:9800
 山西经济与科技,http://171.125.90.120:6001/rtp/226.0.2.236:9800
 
 ☘️安徽频道,#genre#
@@ -140,20 +118,22 @@ CETV-1,http://171.118.146.124:6001/rtp/226.0.2.181:9360
 ☘️宁夏频道,#genre#
 
 ☘️吉林频道,#genre#
-延边-2,http://stream5.jlntv.cn/wq/playlist.m3u8
 延边-2,http://stream8.jlntv.cn/ljtv/playlist.m3u8
+延边-2,http://stream5.jlntv.cn/wq/playlist.m3u8
 长白山电视台,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
-九台综合,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 靖宇综合,http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
+敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8
 龙井综合,http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
 梅河口综合,http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
 桦甸综合,http://stream9.jlntv.cn:80/aac_huadiangb/playlist.m3u8
 磐石综合,http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8
+舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
 东丰综合,http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
 双辽综合,http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
@@ -163,8 +143,8 @@ CETV-1,http://171.118.146.124:6001/rtp/226.0.2.181:9360
 柳河综合,http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
 通化县综合,http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?_upt=eb80947d1699080781
-汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8
+汪清综合,http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
 
 ☘️内蒙古频道,#genre#
 内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
@@ -172,19 +152,14 @@ CETV-1,http://171.118.146.124:6001/rtp/226.0.2.181:9360
 ☘️云南频道,#genre#
 
 ☘️黑龙江频道,#genre#
-哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
-哈尔滨影视,https://stream.hrbtv.net/yspd/playlist.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/sd/live.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 双鸭山综合,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
